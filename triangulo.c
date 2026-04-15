@@ -26,5 +26,7 @@ int main(int argc, char *argv[])
         printf("\n");
     }
 
+printf("Criado por Valentina Andrade de Pedro");
+
     return 0;
 }
