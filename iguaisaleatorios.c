@@ -18,5 +18,7 @@ int main()
     while (num1 != num2);
     printf("Após %d tentativas, os dois números gerados são iguais a %d\n", tentativas, num1);
 
+    printf("Criado por Valentina Andrade de Pedro");
+    
     return 0;
 }
