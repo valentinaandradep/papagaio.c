@@ -18,4 +18,6 @@ void main(int argc, char *argv[])
     }
 
     printf("Criado por Valentina Andrade de Pedro");
+
+    return 0;
 }
