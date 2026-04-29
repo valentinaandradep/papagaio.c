@@ -8,7 +8,7 @@ int main()
 
     do 
     {
-        printf("\nCALCULADORA\n");
+        printf("\nCALCULADORA - Por: Valentina Andrade\n");
         printf("1. Soma\n");
         printf("2. Subtracao\n");
         printf("3. Divisao\n");
